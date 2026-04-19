@@ -28,8 +28,8 @@ function About() {
                 <div className="framer">
 
                     <h1>About</h1>
-                    <p>I am a Visual Designer with a track record in creative solutions to challenging projects. What makes me unique is my background in engineering. As an engineer, I developed critical thinking, problem-solving, time management, organizational, and interpersonal communication skills. This combination of education and experience enables me to approach visual design challenges with strategy.
-                    My extensive computer literacy and hands-on experience, showcased here on my self-crafted website. This space reflects my web development skills and my ever-growing knowledge base.
+                    <p>
+                        I am a visual strategist and current Master’s in Data Science candidate at the Illinois Institute of Technology with a unique professional evolution. My journey began in Mechanical Engineering, where I developed a foundational rigor for mathematics and analytical problem-solving. This technical background, combined with 5 years of experience in Visual Communication and Fine Arts, allows me to operate at the rare intersection of complex data processing and high-impact storytelling.
                     </p>
                 </div>
                 <div className="framel">
@@ -45,14 +45,7 @@ function About() {
                     <h1>Experience</h1>
 
                     <p>
-                    Over the past year, I’ve been working on data visualization projects while developing my data analysis skills—an exciting evolution made even more natural thanks to my background in engineering, which has helped me merge design and analytical thinking.
-
-                    Most recently, I worked as a Designer for WellSpa360 at Allured Business Media. There, I designed captivating layouts for both print and digital magazines, and enhanced digital engagement by crafting responsive updates for mobile and desktop experiences. I also created interactive content, motion graphics, and animations. Collaborating closely with the marketing team, I developed innovative visuals—including social media assets, web banners, and animations—for high-impact events, webcasts, emails, and campaigns.
-
-                    Previously, as a freelancer, I developed digital content that aligned tightly with brand identity. I edited images in Photoshop, enhanced visual appeal based on user feedback, and contributed to strategic marketing initiatives.
-
-                    Another key role was as a UI/UX Designer, where I helped relaunch a company’s intranet UI. I translated user needs into clear, actionable design recommendations, working closely with developers and leveraging rigorous UX research.
-
+                    With a career built on the technical foundations of Mechanical Engineering and 5 years of Visual Design, I specialize in transforming complex data into streamlined, actionable insights. During my recent tenure at Allured Business Media, I acted as a bridge between creative vision and operational efficiency, managing complex production workflows. My approach is defined by strategic thinking and a commitment to data-driven design. I am responsible for maintaining a digital asset library to ensure brand consistency or developing interactive. I learned to create Tableau dashboards to visualize national consumption trends. Currently pursuing a Master’s in Data Science, I am applying advanced analytical techniques, such as Multiple Linear Regression and Exploratory Data Analysis (EDA), Machine Learning Models to solve real-world problems. My unique value lies in the ability to not only engineer the backend data but to design the front-end narrative that makes that data meaningful for stakeholders.
 
                     </p>
                 </div>

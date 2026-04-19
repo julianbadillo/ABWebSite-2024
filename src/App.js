@@ -29,6 +29,7 @@ function App() {
           <Link to="/" className="nav-item">Home</Link>
           <Link to="/about" className="nav-item">About</Link>
           <Link to="/projects" className="nav-item">Projects</Link>
+          <Link to="/gallery" className="nav-item">Gallery</Link>
           <Link to="/Products" className="nav-item">Products</Link>
         </nav>
         <LocationProvider>

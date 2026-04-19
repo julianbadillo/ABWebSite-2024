@@ -1,7 +1,7 @@
 import ink from './assets/images/in.png';
-import inst from './assets/images/insta.jpg';
+import inst from './assets/images/insta.png';
 import { Link } from "react-router-dom";
-import git from './assets/images/github.jpg';
+import git from './assets/images/github.png';
 
 
 
@@ -10,9 +10,7 @@ function Footer() {
         <>
 
             <div className="foot">
-                <div className='logoab'>
                
-               </div>
                 <div className='banner'>
                     <table>
                         <tr>
@@ -26,11 +24,12 @@ function Footer() {
                                 <Link to="/projects" className="nav-item">Projects</Link>
                             </th>
                             <th>
-                                <Link to="/contact" className="nav-item">Contact</Link>
-                            </th>
-                            <th>
                                 <Link to="/gallery" className="nav-item">Gallery</Link>
                             </th>
+                            <th>
+                                <Link to="/contact" className="nav-item">Contact</Link>
+                            </th>
+                            
                         </tr>
                       
                         <tr>
@@ -134,7 +133,7 @@ function Footer() {
 
 
                 </div>
-                <p>© 2024 Angela Bello All Rights Reserved.</p>
+                <p>© 2026 Angela Bello All Rights Reserved.</p>
                 
             </div>
         </>

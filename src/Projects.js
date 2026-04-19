@@ -14,9 +14,7 @@ import git from './assets/images/github.jpg';
 function Projects() {
     return (
         <motion.div variants={fadeIn} initial="initial" animate="final">
-            <div className='logoab'>
-               
-            </div>
+          
             <div className="abhero">
                 
             </div>

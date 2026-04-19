@@ -11,9 +11,7 @@ import { fadeIn } from "./animation";
 function About() {
     return (
         <>  <motion.div variants={fadeIn} initial="initial" animate="final">
-            <div className="logoab">
-                
-            </div>
+          
            
             <div className='hero'>
                 

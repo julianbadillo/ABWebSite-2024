@@ -6,6 +6,7 @@ function Home() {
             <div className='avatar'>
                 
             </div>
+            <h5>Illustrations by Angela Bello | Animation in Midjourney</h5>
         </div>
     );
 }
